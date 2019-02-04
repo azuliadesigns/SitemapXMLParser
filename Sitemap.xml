@@ -1,0 +1,17 @@
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemalocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+<loc>https://lonewolfonline.net/</loc>
+<priority>1.0</priority>
+<lastmod>2010-09-14</lastmod>
+<changefreq>daily</changefreq>
+</url>
+
+<url>
+<loc>https://lonewolfonline.net/simple-xml-parser/</loc>
+<priority>0.5</priority>
+<lastmod>2009-09-14</lastmod>
+<changefreq>monthly</changefreq>
+</url>
+
+</urlset>

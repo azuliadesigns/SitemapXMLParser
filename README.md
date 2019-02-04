@@ -24,15 +24,15 @@ An XML Sitemap is a specially structured XML file which provides important struc
 </urlset>
 ```
 
-Individual <code><url></code> tags are wrapped inside the containing <code><urlset></code> nodes.  Each <code><url></code> represents a page on the site. Inside the <code><url></code> node, are four nodes.
+Individual <code>&lt;url&gt;</code> tags are wrapped inside the containing <code>&lt;urlset&gt;</code> nodes.  Each <code>&lt;url&gt;</code> represents a page on the site. Inside the <code>&lt;url&gt;</code> node, are four nodes.
 
-The <code><loc></code> node represents the page url.
+The <code>&lt;loc&gt;</code> node represents the page url.
 
-The <code><priority></code> node represents the webmaster defined site map priority.
+The <code>&lt;priority&gt;</code> node represents the webmaster defined site map priority.
 
-The <code><lastmod></code> node represents the date which the page was last modified..
+The <code>&lt;lastmod&gt;</code> node represents the date which the page was last modified..
 
-The <code><changefreq></code> node indicates how often the page is updated and makes a suggestion to the search engine how often to crawl it again.
+The <code>&lt;changefreq&gt;</code> node indicates how often the page is updated and makes a suggestion to the search engine how often to crawl it again.
 
 ## Writing a Simple XML Parser in C#
 
